@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fathurrohman26.github.io/sitemap.xml
